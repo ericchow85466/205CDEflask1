@@ -3,7 +3,7 @@
     <title>205CDE Project</title>
   </head>
   <body>
-    <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="/205CDE_Project.pdf">example</a>.</p>
+    <h1>Welcome to website</h1>
+    <p>Open a PDF file <a href="/205CDE_PresentationX.pdf">Click here to continue</a>.</p>
   </body>
 </html>
